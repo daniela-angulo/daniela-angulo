@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniela-angulo.
-- :books: My academic interests are quantum optics, optics, and education. 
+- :books: My academic interests are quantum optics, quantum information, and education. 
 - :bike: I love cycling (watching and riding), swimming, reading big novels and politics.
-- 🌱 I’m currently in a PhD in experimental quantum optics. I will upload codes that we use for analyzing our data and small simulations that help us to understand our results. I'll also post python codes that I use to teach quantum mechanics and optics.
+- 🌱 I’m recently finished my PhD in experimental quantum optics. I will upload codes that we use for analyzing our data and small simulations that help us to understand our results. I'll also post python codes that I use to teach quantum mechanics and optics.
 - :mag_right: I've been making my website recently [here](https://daniela-angulo.github.io/). It's still under construction. 
